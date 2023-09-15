@@ -21,6 +21,6 @@
 
 📍 Link
 
-* https://main--elegant-salmiakki-8971d8.netlify.app/
+* https://er-rotation.netlify.app/
 <br/>
 <br/>
