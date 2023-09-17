@@ -13,7 +13,7 @@ body {
 .rank-info-container {
     display: flex;
     position: absolute;
-    justify-content: space-around;
+    justify-content: space-evenly;
     top: 194px;
     margin: 0;
     padding: 0;
@@ -193,6 +193,9 @@ body {
         line-height: 44px;
         margin-bottom: 16px;
         border-bottom: 1px solid #363944;
+    }
+    .content-title {
+        padding: 0 8px;
     }
     .experiment-list-container {
         min-height: 320px;
