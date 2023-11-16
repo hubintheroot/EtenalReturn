@@ -69,7 +69,10 @@ class Rotation {
                     <div class="img-container">
                         <img class="experiment-img"
                         src="src/imgs/characters/${CHARACTERS_EN[charCode]}.png"
-                        width="64" height="64" alt>
+                        width="64" height="64" alt="character image">
+                        <img
+                        src="src/imgs/background_imgs/CharCommunity_BG.png"
+                        width="64" height="64" alt="background image">
                     </div>
                     <figcaption class="experiment-name">${CHARACTERS_KR[charCode]}</figcaption>
                 </figure>

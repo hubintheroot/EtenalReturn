@@ -132,8 +132,13 @@ body {
 }
 
 .img-container {
-    display: relative;
+    position: relative;
     margin-bottom: 2px;
+}
+
+.img-container .experiment-img {
+    position: absolute;
+    z-index: 2;
 }
 
 .free-rotate {
